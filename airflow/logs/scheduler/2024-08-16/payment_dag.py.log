@@ -1,0 +1,382 @@
+[2024-08-16T16:29:44.179+0000] {processor.py:186} INFO - Started process (PID=52) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:29:44.181+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T16:29:44.184+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:29:44.183+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:29:44.674+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:29:44.692+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:29:44.692+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T16:29:44.717+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:29:44.717+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-14 00:00:00+00:00, run_after=2024-08-15 00:00:00+00:00
+[2024-08-16T16:29:44.765+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.591 seconds
+[2024-08-16T16:30:15.126+0000] {processor.py:186} INFO - Started process (PID=85) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:30:15.127+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T16:30:15.129+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:30:15.129+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:30:15.566+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:30:15.660+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:30:15.660+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T16:30:15.679+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:30:15.679+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-16 00:00:00+00:00, run_after=2024-08-17 00:00:00+00:00
+[2024-08-16T16:30:15.718+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.598 seconds
+[2024-08-16T16:59:18.246+0000] {processor.py:186} INFO - Started process (PID=51) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:59:18.247+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T16:59:18.250+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:59:18.249+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:59:20.140+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:59:20.182+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:59:20.181+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T16:59:20.210+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:59:20.210+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-16 00:00:00+00:00, run_after=2024-08-17 00:00:00+00:00
+[2024-08-16T16:59:20.257+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 2.018 seconds
+[2024-08-16T16:59:51.242+0000] {processor.py:186} INFO - Started process (PID=95) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:59:51.243+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T16:59:51.245+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:59:51.245+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:59:51.619+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T16:59:51.648+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:59:51.648+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T16:59:51.668+0000] {logging_mixin.py:190} INFO - [2024-08-16T16:59:51.668+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-16 00:00:00+00:00, run_after=2024-08-17 00:00:00+00:00
+[2024-08-16T16:59:51.705+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.468 seconds
+[2024-08-16T17:00:15.941+0000] {processor.py:186} INFO - Started process (PID=98) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:00:15.942+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:00:15.945+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:00:15.944+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:00:15.971+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:00:15.967+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/payment_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/payment_dag.py", line 24, in <module>
+    run_etl = PythonOperator(
+              ^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/baseoperator.py", line 473, in apply_defaults
+    raise AirflowException(f"missing keyword argument {missing_args.pop()!r}")
+airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
+[2024-08-16T17:00:15.972+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:00:16.015+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.078 seconds
+[2024-08-16T17:00:43.858+0000] {processor.py:186} INFO - Started process (PID=100) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:00:43.859+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:00:43.861+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:00:43.861+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:00:44.325+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:00:44.345+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:00:44.345+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T17:00:44.367+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:00:44.367+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-16 00:00:00+00:00, run_after=2024-08-17 00:00:00+00:00
+[2024-08-16T17:00:44.419+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.567 seconds
+[2024-08-16T17:01:18.200+0000] {processor.py:186} INFO - Started process (PID=114) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:01:18.200+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:01:18.203+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:01:18.202+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:01:18.596+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:01:18.617+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:01:18.617+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T17:01:18.638+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:01:18.638+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-13 00:00:00+00:00, run_after=2024-08-14 00:00:00+00:00
+[2024-08-16T17:01:18.672+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.478 seconds
+[2024-08-16T17:01:49.707+0000] {processor.py:186} INFO - Started process (PID=150) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:01:49.708+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:01:49.710+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:01:49.710+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:01:50.078+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:01:50.105+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:01:50.104+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T17:01:50.128+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:01:50.128+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-16 00:00:00+00:00, run_after=2024-08-17 00:00:00+00:00
+[2024-08-16T17:01:50.169+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.466 seconds
+[2024-08-16T17:02:20.532+0000] {processor.py:186} INFO - Started process (PID=153) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:02:20.533+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:02:20.535+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:02:20.535+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:02:20.937+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:02:20.965+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:02:20.964+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T17:02:20.988+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:02:20.988+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-16 00:00:00+00:00, run_after=2024-08-17 00:00:00+00:00
+[2024-08-16T17:02:21.029+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.502 seconds
+[2024-08-16T17:02:51.519+0000] {processor.py:186} INFO - Started process (PID=156) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:02:51.520+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:02:51.522+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:02:51.522+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:02:51.923+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:02:51.951+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:02:51.951+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T17:02:51.973+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:02:51.973+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-16 00:00:00+00:00, run_after=2024-08-17 00:00:00+00:00
+[2024-08-16T17:02:52.010+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.497 seconds
+[2024-08-16T17:03:22.447+0000] {processor.py:186} INFO - Started process (PID=159) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:03:22.448+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:03:22.450+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:03:22.450+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:03:22.890+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:03:22.883+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/payment_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/payment_dag.py", line 4, in <module>
+    from payment_etl_logic import to_sql_db
+  File "/opt/airflow/dags/payment_etl_logic.py", line 12, in <module>
+    engine = create_engine(connection_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in create_engine
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/deprecations.py", line 375, in warned
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 514, in create_engine
+    u = _url.make_url(url)
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 738, in make_url
+    return _parse_url(name_or_url)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 796, in _parse_url
+    return URL.create(name, **components)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 152, in create
+    cls._assert_port(port),
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 163, in _assert_port
+    return int(port)
+           ^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+[2024-08-16T17:03:22.891+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:03:22.915+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.474 seconds
+[2024-08-16T17:03:53.053+0000] {processor.py:186} INFO - Started process (PID=162) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:03:53.054+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:03:53.056+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:03:53.056+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:03:53.460+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:03:53.446+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/payment_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/payment_dag.py", line 4, in <module>
+    from payment_etl_logic import to_sql_db
+  File "/opt/airflow/dags/payment_etl_logic.py", line 12, in <module>
+    engine = create_engine(connection_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in create_engine
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/deprecations.py", line 375, in warned
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 514, in create_engine
+    u = _url.make_url(url)
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 738, in make_url
+    return _parse_url(name_or_url)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 796, in _parse_url
+    return URL.create(name, **components)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 152, in create
+    cls._assert_port(port),
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 163, in _assert_port
+    return int(port)
+           ^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+[2024-08-16T17:03:53.461+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:03:53.486+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.438 seconds
+[2024-08-16T17:04:23.726+0000] {processor.py:186} INFO - Started process (PID=165) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:04:23.727+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:04:23.729+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:04:23.729+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:04:24.216+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:04:24.198+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/payment_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/payment_dag.py", line 4, in <module>
+    from payment_etl_logic import to_sql_db
+  File "/opt/airflow/dags/payment_etl_logic.py", line 12, in <module>
+    engine = create_engine(connection_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in create_engine
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/deprecations.py", line 375, in warned
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 514, in create_engine
+    u = _url.make_url(url)
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 738, in make_url
+    return _parse_url(name_or_url)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 796, in _parse_url
+    return URL.create(name, **components)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 152, in create
+    cls._assert_port(port),
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 163, in _assert_port
+    return int(port)
+           ^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+[2024-08-16T17:04:24.217+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:04:24.251+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.529 seconds
+[2024-08-16T17:04:54.541+0000] {processor.py:186} INFO - Started process (PID=168) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:04:54.542+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:04:54.544+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:04:54.544+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:04:54.920+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:04:54.907+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/payment_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/payment_dag.py", line 4, in <module>
+    from payment_etl_logic import to_sql_db
+  File "/opt/airflow/dags/payment_etl_logic.py", line 12, in <module>
+    engine = create_engine(connection_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in create_engine
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/deprecations.py", line 375, in warned
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 514, in create_engine
+    u = _url.make_url(url)
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 738, in make_url
+    return _parse_url(name_or_url)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 796, in _parse_url
+    return URL.create(name, **components)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 152, in create
+    cls._assert_port(port),
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 163, in _assert_port
+    return int(port)
+           ^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+[2024-08-16T17:04:54.921+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:04:54.945+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.408 seconds
+[2024-08-16T17:05:25.240+0000] {processor.py:186} INFO - Started process (PID=171) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:05:25.241+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:05:25.243+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:05:25.242+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:05:25.627+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:05:25.615+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/payment_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/payment_dag.py", line 4, in <module>
+    from payment_etl_logic import to_sql_db
+  File "/opt/airflow/dags/payment_etl_logic.py", line 12, in <module>
+    engine = create_engine(connection_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in create_engine
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/deprecations.py", line 375, in warned
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 514, in create_engine
+    u = _url.make_url(url)
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 738, in make_url
+    return _parse_url(name_or_url)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 796, in _parse_url
+    return URL.create(name, **components)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 152, in create
+    cls._assert_port(port),
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 163, in _assert_port
+    return int(port)
+           ^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+[2024-08-16T17:05:25.628+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:05:25.653+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.417 seconds
+[2024-08-16T17:05:55.931+0000] {processor.py:186} INFO - Started process (PID=174) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:05:55.932+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:05:55.933+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:05:55.933+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:05:56.344+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:05:56.333+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/payment_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/payment_dag.py", line 4, in <module>
+    from payment_etl_logic import to_sql_db
+  File "/opt/airflow/dags/payment_etl_logic.py", line 12, in <module>
+    engine = create_engine(connection_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in create_engine
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/deprecations.py", line 375, in warned
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 514, in create_engine
+    u = _url.make_url(url)
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 738, in make_url
+    return _parse_url(name_or_url)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 796, in _parse_url
+    return URL.create(name, **components)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 152, in create
+    cls._assert_port(port),
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 163, in _assert_port
+    return int(port)
+           ^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+[2024-08-16T17:05:56.345+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:05:56.370+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.444 seconds
+[2024-08-16T17:06:26.626+0000] {processor.py:186} INFO - Started process (PID=177) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:06:26.627+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:06:26.629+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:06:26.629+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:06:27.075+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:06:27.065+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/payment_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/payment_dag.py", line 4, in <module>
+    from payment_etl_logic import to_sql_db
+  File "/opt/airflow/dags/payment_etl_logic.py", line 12, in <module>
+    engine = create_engine(connection_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in create_engine
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/deprecations.py", line 375, in warned
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 514, in create_engine
+    u = _url.make_url(url)
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 738, in make_url
+    return _parse_url(name_or_url)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 796, in _parse_url
+    return URL.create(name, **components)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 152, in create
+    cls._assert_port(port),
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 163, in _assert_port
+    return int(port)
+           ^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+[2024-08-16T17:06:27.076+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:06:27.100+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.481 seconds
+[2024-08-16T17:06:57.317+0000] {processor.py:186} INFO - Started process (PID=180) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:06:57.318+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:06:57.320+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:06:57.320+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:06:57.728+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:06:57.715+0000] {dagbag.py:386} ERROR - Failed to import: /opt/airflow/dags/payment_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 382, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/payment_dag.py", line 4, in <module>
+    from payment_etl_logic import to_sql_db
+  File "/opt/airflow/dags/payment_etl_logic.py", line 12, in <module>
+    engine = create_engine(connection_string)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in create_engine
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/util/deprecations.py", line 375, in warned
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/create.py", line 514, in create_engine
+    u = _url.make_url(url)
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 738, in make_url
+    return _parse_url(name_or_url)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 796, in _parse_url
+    return URL.create(name, **components)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 152, in create
+    cls._assert_port(port),
+    ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/airflow/.local/lib/python3.12/site-packages/sqlalchemy/engine/url.py", line 163, in _assert_port
+    return int(port)
+           ^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+[2024-08-16T17:06:57.729+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:06:57.757+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.445 seconds
+[2024-08-16T17:07:28.005+0000] {processor.py:186} INFO - Started process (PID=183) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:07:28.007+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:07:28.008+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:07:28.008+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:07:28.415+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:07:28.517+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:07:28.516+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T17:07:28.537+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:07:28.537+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-13 00:00:00+00:00, run_after=2024-08-14 00:00:00+00:00
+[2024-08-16T17:07:28.587+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.588 seconds
+[2024-08-16T17:07:58.940+0000] {processor.py:186} INFO - Started process (PID=219) to work on /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:07:58.941+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/payment_dag.py for tasks to queue
+[2024-08-16T17:07:58.943+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:07:58.942+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:07:59.361+0000] {processor.py:925} INFO - DAG(s) 'payment_update' retrieved from /opt/airflow/dags/payment_dag.py
+[2024-08-16T17:07:59.385+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:07:59.385+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-16T17:07:59.408+0000] {logging_mixin.py:190} INFO - [2024-08-16T17:07:59.408+0000] {dag.py:4138} INFO - Setting next_dagrun for payment_update to 2024-08-16 00:00:00+00:00, run_after=2024-08-17 00:00:00+00:00
+[2024-08-16T17:07:59.448+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/payment_dag.py took 0.514 seconds
